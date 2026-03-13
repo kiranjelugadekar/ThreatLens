@@ -165,7 +165,7 @@ cd hackathon11
 ## Screenshots
 
 ### **Home Page**
-![Home Page](https://kommodo.ai/i/omhLRgecwAVK6NMGCziU)
+![Home Page]([https://kommodo.ai/i/omhLRgecwAVK6NMGCziU](https://zygomorphic-lavender-gpf3afykhg.edgeone.app/Screenshot%202026-03-13%20at%203.16.04%E2%80%AFPM.png))
 
 ### **Scan Results**
 ![Scan Results](https://via.placeholder.com/800x400?text=Scan+Results)
