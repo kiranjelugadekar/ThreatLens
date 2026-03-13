@@ -165,7 +165,7 @@ cd hackathon11
 ## Screenshots
 
 ### **Home Page**
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
+![Home Page](https://kommodo.ai/i/omhLRgecwAVK6NMGCziU)
 
 ### **Scan Results**
 ![Scan Results](https://via.placeholder.com/800x400?text=Scan+Results)
