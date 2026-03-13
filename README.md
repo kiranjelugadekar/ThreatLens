@@ -168,7 +168,7 @@ cd hackathon11
 ![Home Page](https://zygomorphic-lavender-gpf3afykhg.edgeone.app/Screenshot%202026-03-13%20at%203.16.04%E2%80%AFPM.png)
 
 ### **Scan Results**
-![Scan Results](https://via.placeholder.com/800x400?text=Scan+Results)
+![Scan Results](https://required-blush-34gpy8kuh9.edgeone.app/Screenshot%202026-03-13%20at%203.48.46%E2%80%AFPM.png)
 
 ---
 
