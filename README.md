@@ -152,16 +152,6 @@ cd hackathon11
 
 ---
 
-## Example API Scans
-
-### **Test Public API**
-- URL: `https://jsonplaceholder.typicode.com/users`
-- Expected Results:
-  - No authentication required (vulnerability).
-  - No rate limiting (vulnerability).
-
----
-
 ## Screenshots
 
 ### **Home Page**
@@ -189,8 +179,8 @@ This project is licensed under the **MIT License**.
 
 ## Contributors
 
-- **Your Name** - [GitHub Profile](https://github.com/your-username)
+- **kiran jelugadekar** - [GitHub Profile](https://github.com/kiranjelugadekar)
+- **krish shukla** - [GitHub Profile](https://github.com/shuklakrish51-glitch)
+- **khetan patle** - [GitHub Profile](https://github.com/Khetanpatle22)
+- **kshitij ingole** - [GitHub Profile](https://github.com/Kshitij-dotcom)
 
----
-
-Let me know if you need further customization! 🚀
